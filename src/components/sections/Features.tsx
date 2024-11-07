@@ -3,22 +3,22 @@ import { Zap, PiggyBank, TrendingUp, Globe } from 'lucide-react';
 
 const features = [
   {
-    icon: <Zap className="h-8 w-6" />,
+    icon: <Zap className="h-8 w-6 pt-2" />,
     title: "Quick & Easy Setup",
     description: "Set up AI voice agents in minutes by simply adding the html code snippets into your desired places.",
   },
   {
-    icon: <PiggyBank className="h-8 w-6" />,
+    icon: <PiggyBank className="h-8 w-6 pt-2" />,
     title: "Save Money",
     description: "Reduce costs by implementing voice agents who will help in reducing refunds and also help in increasing sales.",
   },
   {
-    icon: <TrendingUp className="h-8 w-6" />,
+    icon: <TrendingUp className="h-8 w-6 pt-2" />,
     title: "Grow Effortlessly",
     description: "Scale your business easily by handing over customer support product intros to voice agents.",
   },
   {
-    icon: <Globe className="h-8 w-6" />,
+    icon: <Globe className="h-8 w-6 pt-2" />,
     title: "Always On",
     description: "Stay stress-free with our AI voice agents that are 24/7 online.",
   },
