@@ -23,7 +23,7 @@ export default function Navbar() {
       }`}
     >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="rounded-full border border-border/40 bg-background/80 backdrop-blur-xl transition-all duration-300">
+        <div className="rounded-full border border-black/40 bg-background/80 backdrop-blur-xl transition-all duration-300">
           <div className="flex h-16 items-center justify-between px-4 sm:px-6 lg:px-8">
             <div className="flex items-center">
               <Link className="text-lg font-semibold" to="/">
