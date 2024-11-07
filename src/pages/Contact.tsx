@@ -87,7 +87,13 @@ export default function Contact() {
               />
             </div>
 
-            <Button type="submit" className="w-full">Send Message</Button>
+             <Button 
+  type="button" 
+  className="w-full" 
+  onClick={() => window.location.href = 'https://voiceflows.online'}
+>
+  Send Message
+</Button>
           </form>
         </div>
       </div>
