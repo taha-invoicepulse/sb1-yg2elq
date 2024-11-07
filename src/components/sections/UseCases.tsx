@@ -4,28 +4,28 @@ import { Store, Laptop, BookOpen, Building2 } from 'lucide-react';
 const useCases = [
   {
     id: "ecommerce",
-    icon: <Store className="h-5 w-5" />,
+    icon: <Store className="h-4.8 w-5" />,
     title: "ecommerce voice agent",
     description: "Meet Alex, voice agent for a company called Sunny Kids Emporium.",
     snippet: `https://widget.synthflow.ai/widget/v2/1730992114935x638050770762881300/1730992114833x109185770600900960`,
   },
   {
     id: "saas",
-    icon: <Laptop className="h-5 w-5" />,
+    icon: <Laptop className="h-4.8 w-5" />,
     title: "SaaS voice agent",
     description: "Meet Alessandro, voice agent for a SaaS Startup called Zenvoice.",
     snippet: `https://widget.synthflow.ai/widget/v2/1730993913989x248348895337955360/1730993913878x511431660968232100`,
   },
   {
     id: "blog",
-    icon: <BookOpen className="h-5 w-5" />,
+    icon: <BookOpen className="h-4.8 w-5" />,
     title: "Website Blog voice agent",
     description: "Meet David, webiste blog voice agent from Healthy Eats.",
     snippet: `https://widget.synthflow.ai/widget/v2/1730995106433x260380851928893700/1730995106269x640763217491218300`,
   },
   {
     id: "local",
-    icon: <Building2 className="h-5 w-5" />,
+    icon: <Building2 className="h-4.8 w-5" />,
     title: "Local Business Website voice agent",
     description: "Meet John from John's Plumbing.",
     snippet: `https://widget.synthflow.ai/widget/v2/1730995365852x959572368513578000/1730995365746x517065738281371460`,
